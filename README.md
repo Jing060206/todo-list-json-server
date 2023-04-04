@@ -1,3 +1,8 @@
+to start project:
+npm install
+npm start
+
+
 # Todolist with json server
 
 ## Screenshot
